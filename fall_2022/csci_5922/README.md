@@ -7,3 +7,4 @@
 | 3.  | [Problem Set 2](problem_set_2/question.pdf)       | NA                                          | [Answer](problem_set_2/answer.pdf)    |
 | 4.  | [Lab Assignment 2](lab_assignment_2/question.pdf) | [Notebook](lab_assignment_2/notebook.ipynb) | [Report](lab_assignment_2/report.pdf) |
 | 5.  | [Lab Assignment 3](lab_assignment_3/question.pdf) | [Notebook](lab_assignment_3/notebook.ipynb) | [Report](lab_assignment_3/report.pdf) |
+| 6.  | [Problem Set 3](problem_set_3/question.pdf)       | NA                                          | [Answer](problem_set_3/answer.pdf)    |
