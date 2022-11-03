@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+razor.cs.colorado.edu/var/challenge"
+		},
+		{
+			"uri": "vscode-remote://ssh-remote+razor.cs.colorado.edu/home/icyfire/scratch"
+		}
+	],
+	"remoteAuthority": "ssh-remote+razor.cs.colorado.edu",
+	"settings": {}
+}
