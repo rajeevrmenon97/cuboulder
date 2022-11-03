@@ -5,3 +5,4 @@
 | 1.  | [Problem Set 1](problem_set_1/question.pdf)       | NA                                          | [Answer](problem_set_1/answer.pdf)    |
 | 2.  | [Lab Assignment 1](lab_assignment_1/question.pdf) | [Notebook](lab_assignment_1/notebook.ipynb) | [Report](lab_assignment_1/report.pdf) |
 | 3.  | [Problem Set 2](problem_set_2/question.pdf)       | NA                                          | [Answer](problem_set_2/answer.pdf)    |
+| 4.  | [Lab Assignment 2](lab_assignment_2/question.pdf) | [Notebook](lab_assignment_2/notebook.ipynb) | [Report](lab_assignment_2/report.pdf) |
