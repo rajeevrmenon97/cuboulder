@@ -3,3 +3,6 @@ temp
 .DS_Store
 venv
 *.pdf
+fall_2022/csci_7000_005/lab2/*.txt
+fall_2022/csci_7000_005/lab2/*.conf
+fall_2022/csci_7000_005/lab2/capture.json
