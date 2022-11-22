@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "cloudlab-k8s-flannel"
+		},
+		{
+			"path": "seed-pods"
+		},
+		{
+			"path": "seed-pods-project"
+		},
+		{
+			"path": "temp"
+		}
+	],
+	"settings": {}
+}
