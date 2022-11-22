@@ -1,0 +1,9 @@
+[submodule "fall_2022/csci_7000_005/project/seed-pods-project"]
+	path = fall_2022/csci_7000_005/project/seed-pods-project
+	url = ssh://git@github.com/hunhoffe/seed-pods-project
+[submodule "fall_2022/csci_7000_005/project/cloudlab-k8s-flannel"]
+	path = fall_2022/csci_7000_005/project/cloudlab-k8s-flannel
+	url = ssh://git@github.com/hunhoffe/cloudlab-k8s-flannel
+[submodule "fall_2022/csci_7000_005/project/seed-pods"]
+	path = fall_2022/csci_7000_005/project/seed-pods
+	url = ssh://git@github.com/hunhoffe/seed-pods
