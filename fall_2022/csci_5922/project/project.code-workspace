@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "temp/comparative-abusive-lang"
+		},
+		{
+			"path": "offensive_lang_mal"
 		}
 	]
 }

@@ -7,3 +7,6 @@
 [submodule "fall_2022/csci_7000_005/project/seed-pods"]
 	path = fall_2022/csci_7000_005/project/seed-pods
 	url = ssh://git@github.com/hunhoffe/seed-pods
+[submodule "fall_2022/csci_5922/project/offensive_lang_mal"]
+	path = fall_2022/csci_5922/project/offensive_lang_mal
+	url = ssh://git@github.com/rajeevrmenon97/offensive_lang_mal
