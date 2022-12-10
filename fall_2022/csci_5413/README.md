@@ -8,3 +8,4 @@
 | 4.  | [Homework 3](homework_3/homework_3.md) |
 | 5.  | [Homework 4](homework_4/homework_4.md) |
 | 5.  | [Homework 5](homework_5/homework_5.md) |
+| 6.  | [Homework 6](homework_6/homework_6.md) |
